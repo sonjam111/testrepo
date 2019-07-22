@@ -7,3 +7,5 @@ This line I wrote from RStudio
 And another one
 and yet another one
 I branched out and added this line.
+
+Another line from branch.
